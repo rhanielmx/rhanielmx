@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### A little about me
 
-Welcome to my profile! I am a recent graduate in Computer Engineering from the Federal University of Ceará, aspiring to find my place in the Full Stack development market. I'm currently studying at [Ignite Bootcamp](https://lp.rocketseat.com.br/ignite) going deeper into JavaScript with Node, React and React-Native and looking forward to learning more. Thanks for stopping by and feel free to contact me at any of the following!
+Welcome to my profile! I am a recent graduate in Computer Engineering from the Federal University of Ceará, aspiring to find my place in the Full Stack development market. I'm currently studying at [Ignite Bootcamp](https://lp.rocketseat.com.br/ignite) while documenting the bootcamp developed projects [here](https://github.com/rhanielmx/Ignite). I’m looking to get deeper into JavaScript Stack with Node, React and React-Native and looking forward to learning more. Thanks for stopping by and feel free to contact me at any of the following!
 
 <!-- [![Website Badge](https://img.shields.io/badge/-rhanielmx.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://rhanielmx.dev)](https://rhanielmx.dev) -->
 [![Linkedin Badge](https://img.shields.io/badge/-rhanielmx-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhanielmx/)](https://www.linkedin.com/in/rhanielmx/)
